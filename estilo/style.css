@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: purple;
+}
+
+
+
+
+main{
+    background-color: white;
+    width: 200px;
+    height: 300px;
+    margin: auto;
+    
+
+}
+
+main>article{
+    background-image: url(../imagens/pexels-emrecan-2110951\ \(2\).jpg);
+    background-size: cover;
+ }
