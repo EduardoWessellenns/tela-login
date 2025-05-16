@@ -32,17 +32,17 @@
     }
 
     section#login > div#imagem{
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
 
     div#formulario{
-        float: right;
+        float: left;
         width: 47%;
     }
 
     body{
-        background-image:linear-gradient(to top, purple , rgb(106, 167, 170));
+        background-image:linear-gradient(to top, purple , rgb(106, 167, 170));d
     }
 }
