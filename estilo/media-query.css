@@ -3,6 +3,7 @@
 @media screen and (min-width: 768px) and (max-width:992px){
     section#login{
         width: 90vw;
+        height: 310px;
     }
     
     section#login > div#imagem{
@@ -24,11 +25,22 @@
         background-image:linear-gradient(to top, purple , rgb(106, 167, 170));
     }
 
+    div.campo > label{
+     
+    }
+
+   
+ 
 }
+
+
+
 
 @media screen and (min-width:992px){
     section#login{
         width: 990px;
+        height: 330px;
+        
     }
 
     section#login > div#imagem{
